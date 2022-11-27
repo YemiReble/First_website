@@ -1,0 +1,7 @@
+Web Name, "WESE" don't know why yet, but sounds good.
+Index.html => Home Page
+SignUp Pages => 1 & 2
+Thank You Page => (Thanks! Your DashBoard Is Few Clicks Away. Kindly Check Your Mail and Confirm Your Email to Proceed) 
+Confirm Email
+Email Confirmation Message Page... Sign In and go to Dashboard
+DashBoard

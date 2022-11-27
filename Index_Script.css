@@ -1,0 +1,77 @@
+/* This is the Style rule for WESE Website, code carefully.*/
+
+/* This is the Web Logo Css*/
+.wese {
+    position: absolute;
+    border: 200px;
+    margin: 0px;
+    padding: 10px;
+    top: 0px;
+    background-color: rgb(12 43 60);
+    height: 50px;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+    font-size: 2rem;
+    width: -webkit-fill-available;
+    left: 0px;
+    font-family: Magneto;
+    color: white;
+    }
+
+/*.head {
+        position: relative;
+        vertical-align: 0rem;
+    }*/
+.menu{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 0px;
+}
+
+
+/* This is the style rules for Blog Page*/
+.blog {
+    position: absolute;
+    top: 0px;
+    right: 22px;
+    width: 75px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* This is the style rules for Sign In Page*/
+.sign-in {
+    position: absolute;
+    top:0px;
+    right: 200px;
+    width: 60px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* This is the style rules for Resours Page*/
+.resourse {
+    position: absolute;
+    top: 0px;
+    right: 110px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* This is the style rules for Home Page details*/
+#learn {
+    position: absolute;
+    background-color: rgb(156, 219, 253);
+    padding: 7px;
+    height: 700px;
+    top: 69px;
+    left: 0px;
+    width: -webkit-fill-available;
+    margin: 0px;
+}
+
+.paras {
+    position: relative;
+    top: 100px;
+
+}
