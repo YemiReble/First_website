@@ -5,7 +5,7 @@
 * CSS
 
 This is a simple website created as a test and pratice to my online course on Ustacky.
-At the point of creation, the aim is to practice the efficient use of HTML and CSS to 
+At the point of creation, the aim is to practice the efficient use of **HTML** and **CSS** to 
 create a responsive website.
 
 The index page of this website is not linked to the other page, except when using the 
